@@ -26,7 +26,6 @@ function setupWorld() {
 	// you can comment/uncomment this 3 calls
 	drawAxes();
 	
-	addSphere({x:0, y: 100, vy: -1, ay:0.1})
 
 	loadPlanets()
 }
